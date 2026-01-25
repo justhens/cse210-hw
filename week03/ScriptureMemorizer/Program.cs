@@ -1,3 +1,6 @@
+// To show Creativity I added the option to unhide some words that were previously hidden.
+// That will be shown in the scripture.cs file
+
 using System;
 
 class Program
